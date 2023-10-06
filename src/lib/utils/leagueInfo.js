@@ -7,10 +7,10 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Gentlemen,</p>
-  <p></p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-  <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <p>Season Summary,</p>
+  <p>The 2023 season got off to an unpredictable start, despite most of the expected contenders currently sitting atop the leaderboard. With no undefeated teams and no winless teams, everyone is truly still in it.</p>
+  <p>Some rebuilding teams have seen themselves thrust into contention due to surprise breakouts from players like De'Von Achane, while others are still left waiting (Skyy Moore). </p>
+  <p>Through all the turmoil The Great Aiyukening has remained steady at 3-1 and has to be considered the betting favorite to repeat.</p>
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
   <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 `;
